@@ -6814,11 +6814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efuab\\source\\repos\\TestProject366\\TestProject366\\TestProject366.csproj",
+      "projectUniqueName": "C:\\Users\\efuab\\source\\repos\\Repo Five\\Automation-Five\\TestProject366\\TestProject366.csproj",
       "projectName": "TestProject366",
-      "projectPath": "C:\\Users\\efuab\\source\\repos\\TestProject366\\TestProject366\\TestProject366.csproj",
+      "projectPath": "C:\\Users\\efuab\\source\\repos\\Repo Five\\Automation-Five\\TestProject366\\TestProject366.csproj",
       "packagesPath": "C:\\Users\\efuab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efuab\\source\\repos\\TestProject366\\TestProject366\\obj\\",
+      "outputPath": "C:\\Users\\efuab\\source\\repos\\Repo Five\\Automation-Five\\TestProject366\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\efuab\\AppData\\Roaming\\NuGet\\NuGet.Config",
